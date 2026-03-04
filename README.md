@@ -18,4 +18,8 @@ Aplikasi berbasis web sederhana untuk memanajemen inventori dan transaksi kasir 
 ## Cara Menjalankan Unit Testing
 1. Buka folder `tests/`
 2. Buka file `runner.html` menggunakan browser.
+<<<<<<< HEAD
 3. Laporan pengujian otomatis (Pass/Fail) akan langsung ditampilkan di layar.
+=======
+3. Laporan pengujian otomatis (Pass/Fail) akan langsung ditampilkan di layar.
+
